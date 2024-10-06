@@ -41,7 +41,11 @@ div.text {
   p.small-para {
     font-size: 14px;
     font-weight: 800;
-  }
+  }.button {
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+}
 */
 
 .small-para {
